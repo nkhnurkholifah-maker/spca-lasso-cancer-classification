@@ -45,8 +45,8 @@ https://archive.ics.uci.edu/dataset/401/gene+expression+cancer+rna+seq
 
 ## Main Results
 
-| Method | Final Features | Accuracy |
+| Method | Final Model Input | Accuracy |
 |----------|----------|----------|
-| SPCA | 6 PCs | 100% |
+| SPCA | 6 Principal Components | 100% |
 | LASSO | 33 Genes | 100% |
 
